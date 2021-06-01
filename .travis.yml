@@ -20,5 +20,5 @@ script:
 deploy:
   provider: heroku
   api-key: 
-    secure: $HEROKU_API_KEY
-  app: app4linux
+    secure: e6df6d94-49da-4594-9efe-889e3bfa16df
+  app: bcavalerodevopslab
